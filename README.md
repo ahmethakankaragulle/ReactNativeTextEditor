@@ -1,7 +1,9 @@
 # ReactNativeTextEditor V1
 ---
-<img src="./images/appImage1.jpg" alt="örnek resim" width="100" height="200">
-<img src="./images/appImage2.jpg" alt="örnek resim" width="100" height="200">
+<p align="center">
+<img src="./images/appImage1.jpg" alt="örnek resim" width="200">
+<img src="./images/appImage2.jpg" alt="örnek resim" width="200">
+  </p>
 ---
 
 Uygulama resimlerde görüldüğü gibidir. Seçilen metinlere bold, italic ve underline stilleri ekleyebilirsiniz. Tüm metnin yazı boyutunuda ayarlayabilirsiniz. Stil barı klavye ile beraber açılır ve kapanır.
