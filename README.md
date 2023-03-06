@@ -1,6 +1,6 @@
 # ReactNativeTextEditor V1
 ---
-<p align="center">
+<p align="start">
 <img src="./images/appImage1.jpg" alt="örnek resim" width="200">
 <img src="./images/appImage2.jpg" alt="örnek resim" width="200">
  </p>
